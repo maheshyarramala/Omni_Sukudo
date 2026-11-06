@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku Prime Mobile & Flutter Studio",
+  "description": "Next-generation Sudoku mobile game featuring smart logic hints, auto-pencil notes, speedrun modes, custom board scanner, and complete exportable Flutter/Android Studio source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
